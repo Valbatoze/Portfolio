@@ -1,5 +1,20 @@
 export default[
    {
+      title: 'Mini RPG',
+      imgUrl:'/assets/MiniRpgJS.jpg',
+      stack: ['JavaScript'],
+   },
+   {
+      title: 'Nombre Mister',
+      imgUrl:'/assets/NombreMister.jpg',
+      stack: ['Java'],
+   },
+   {
+      title: 'Web Silver Bird',
+      imgUrl:'/assets/WebSilver.jpg',
+      stack: ['HTML', 'CSS'],
+   },
+   {
     title: 'Arena of Hope',
     imgUrl:'/assets/sortie-unity-3D-5.jpg',
     stack: ['UNITY', 'C#', '3D'],
