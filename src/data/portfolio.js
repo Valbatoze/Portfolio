@@ -7,16 +7,26 @@ export default[
    {
     title: 'Bouchi Kinoukou',
     imgUrl:'/assets/ue-logo-1400x788-1400x788-8f185e1e3635.jpg',
-    stack: ['Unreal', 'C++', 'BluePrint'],
+    stack: ['Unreal 4.27', 'C++', 'BluePrint'],
+   },
+   {
+      title: 'Izanagi',
+      imgUrl:'/assets/ue-logo-1400x788-1400x788-8f185e1e3635.jpg',
+      stack: ['Unreal 4.27', 'C++', 'BluePrint'],
    },
    {
     title: 'Porfolio',
-    imgUrl:'/assets/orajt7a1fkr81.jpg',
+    imgUrl:'/assets/Portfolio.png',
     stack: ['Tailwind', 'HTML', 'JavaScript'],
    },
    {
       title: 'Unnamed Fantasy',
       imgUrl:'/assets/sortie-unity-3D-5.jpg',
-      stack: ['UNITY', 'C#', '2D'],
-     },
+      stack: ['UNITY 2021.3.12f1', 'C#', '2D'],
+   },
+   {
+      title: 'Galahad',
+      imgUrl:'/assets/ue-logo-1400x788-1400x788-8f185e1e3635.jpg',
+      stack: ['Unreal 5.1', 'C++', 'BluePrint'],
+   }
 ]

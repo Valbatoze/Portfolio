@@ -18,5 +18,15 @@ export default [
         year: '22/06/21 - 20/08/21',
         title:'Stage CPAM RECHERCHE & DEVELOPPEMENT',
         details:'Développeur Web (Symfony 3.4, Migration S4)',
-    }
+    },
+    {
+        year: '2020 - 2021',
+        title:"Bashelor's 2 - Informatique",
+        details:'Ynov Paris Campus',
+    },
+    {
+        year: '2019 - 2021',
+        title:"Bashelor's 1 - Informatique",
+        details:'Ynov Paris Campus',
+    },
 ]

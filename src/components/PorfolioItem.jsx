@@ -1,8 +1,7 @@
 import React from "react";
 
-function Porfolioitem({title, imgUrl, stack}) {
     return (
-        <div className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden">
+        <div className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden transition ease-in-out delay-150 hover:scale-110">
             <img src={imgUrl} alt="portfolio" className="w-full h-36 md:h-48 object-cover cursor-pointer"/>
                 <div className="w-full p-4 border-2 border-t-stone-900 dark:border-t-white">
                     <h3 className="text-lg md:text-xl dark:text-white mb-2 md:mb-3 border-t-stone-900 font-semibold">{title}</h3>
