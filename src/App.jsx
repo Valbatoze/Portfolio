@@ -36,7 +36,7 @@ function App() {
 	);
   
   return (
-    <>
+    <div className="App">
       <button type="button" onClick={handleThemeSwitch} className="fixed p-2 z-10 right-20 top-4 bg-zinc-600 dark:bg-yellow-300 text-lg p-1 rounded-md">
         {theme === 'dark' ? sun : moon}
       </button>
@@ -48,7 +48,7 @@ function App() {
             <Footer/>
           </div>
         </div>
-    </>
+    </div>
   )
 }
 
