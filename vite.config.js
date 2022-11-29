@@ -5,6 +5,6 @@ const publicPath = process.env.NODE_ENV === 'production' ? '/Portfolio/' : '/'
 
 // https://vitejs.dev/config/
  export default defineConfig({
-  publicPath: '/Portfolio/',
-   plugins: [react()]
+    base: '/Portfolio/',
+    plugins: [react()]
  })
