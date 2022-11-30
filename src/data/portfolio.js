@@ -5,7 +5,7 @@ export default[
       stack: ['JavaScript'],
    },
    {
-      title: 'Nombre Mister',
+      title: 'Nombre Mystère',
       imgUrl:'/assets/NombreMister.jpg',
       stack: ['Java'],
    },
